@@ -6,6 +6,8 @@ body {
 section {
     background: rgb(0, 41, 39);
     padding-bottom: 80px;
-            padding-top: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
     }
     
